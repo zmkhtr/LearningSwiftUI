@@ -24,6 +24,8 @@ struct CategoryHome: View {
                 }
                 .listRowInsets(EdgeInsets())
             }
+            .frame( maxWidth: .infinity)
+            .listStyle(GroupedListStyle())
             .navigationTitle("Featured")
         }
     }
