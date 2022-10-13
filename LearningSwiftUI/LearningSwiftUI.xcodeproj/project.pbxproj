@@ -38,6 +38,7 @@
 		BFFB240F28F8484500F21D77 /* ProfileHost.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFFB240E28F8484500F21D77 /* ProfileHost.swift */; };
 		BFFB241128F848CD00F21D77 /* ProfileSummary.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFFB241028F848CD00F21D77 /* ProfileSummary.swift */; };
 		BFFB241328F8498A00F21D77 /* HikeBadge.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFFB241228F8498A00F21D77 /* HikeBadge.swift */; };
+		BFFB241728F84FFC00F21D77 /* ProfileEditor.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFFB241628F84FFC00F21D77 /* ProfileEditor.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -73,6 +74,7 @@
 		BFFB240E28F8484500F21D77 /* ProfileHost.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileHost.swift; sourceTree = "<group>"; };
 		BFFB241028F848CD00F21D77 /* ProfileSummary.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileSummary.swift; sourceTree = "<group>"; };
 		BFFB241228F8498A00F21D77 /* HikeBadge.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HikeBadge.swift; sourceTree = "<group>"; };
+		BFFB241628F84FFC00F21D77 /* ProfileEditor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileEditor.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -216,6 +218,7 @@
 			children = (
 				BFFB240E28F8484500F21D77 /* ProfileHost.swift */,
 				BFFB241028F848CD00F21D77 /* ProfileSummary.swift */,
+				BFFB241628F84FFC00F21D77 /* ProfileEditor.swift */,
 			);
 			path = Profiles;
 			sourceTree = "<group>";
@@ -310,6 +313,7 @@
 				BF054D2928F7096500AB0020 /* Hike.swift in Sources */,
 				BF054D2228F7070F00AB0020 /* RotatedBadgeSymbol.swift in Sources */,
 				BF054D2028F706A800AB0020 /* BadgeSymbol.swift in Sources */,
+				BFFB241728F84FFC00F21D77 /* ProfileEditor.swift in Sources */,
 				BF054CF728F6EC7800AB0020 /* LearningSwiftUIApp.swift in Sources */,
 				BF054D3228F70A0100AB0020 /* HikeView.swift in Sources */,
 				BF054D1428F6F9FC00AB0020 /* LandmarkList.swift in Sources */,
