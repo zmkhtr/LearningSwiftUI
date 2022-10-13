@@ -42,6 +42,7 @@
 		BFFB241928F854EF00F21D77 /* PageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFFB241828F854EF00F21D77 /* PageViewController.swift */; };
 		BFFB241B28F855FB00F21D77 /* FeatureCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFFB241A28F855FB00F21D77 /* FeatureCard.swift */; };
 		BFFB241D28F8570700F21D77 /* PageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFFB241C28F8570700F21D77 /* PageView.swift */; };
+		BFFB241F28F85BC900F21D77 /* PageControl.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFFB241E28F85BC900F21D77 /* PageControl.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -81,6 +82,7 @@
 		BFFB241828F854EF00F21D77 /* PageViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PageViewController.swift; sourceTree = "<group>"; };
 		BFFB241A28F855FB00F21D77 /* FeatureCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeatureCard.swift; sourceTree = "<group>"; };
 		BFFB241C28F8570700F21D77 /* PageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PageView.swift; sourceTree = "<group>"; };
+		BFFB241E28F85BC900F21D77 /* PageControl.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PageControl.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -144,6 +146,7 @@
 				BFFB241828F854EF00F21D77 /* PageViewController.swift */,
 				BFFB241A28F855FB00F21D77 /* FeatureCard.swift */,
 				BFFB241C28F8570700F21D77 /* PageView.swift */,
+				BFFB241E28F85BC900F21D77 /* PageControl.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -314,6 +317,7 @@
 				BF054D0728F6F50E00AB0020 /* MapView.swift in Sources */,
 				BF054D2F28F70A0100AB0020 /* GraphCapsule.swift in Sources */,
 				BF054D1628F6FAD900AB0020 /* LandmarkDetail.swift in Sources */,
+				BFFB241F28F85BC900F21D77 /* PageControl.swift in Sources */,
 				BF054D1828F702A500AB0020 /* FavoriteButton.swift in Sources */,
 				BF054D3928F710E800AB0020 /* CategoryItem.swift in Sources */,
 				BF054D3128F70A0100AB0020 /* HikeDetail.swift in Sources */,
